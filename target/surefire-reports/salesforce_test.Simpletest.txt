@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: salesforce_test.Simpletest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.477 s - in salesforce_test.Simpletest
