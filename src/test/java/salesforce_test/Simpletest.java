@@ -18,6 +18,6 @@ public class Simpletest {
 		driver.get("https://login.salesforce.com/");
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 		driver.manage().window().maximize();
-		driver.quit();
+		
 }
 }
